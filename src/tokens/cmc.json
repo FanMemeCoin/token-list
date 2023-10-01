@@ -62247,6 +62247,23 @@
     "decimals": 18,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23635.png"
   },
+
+{
+  "name": "RainbowSix",
+  "symbol": "RSIX",
+  "address": "0x4fc0dc6f38d9fcf01f25627abb809aa1be934d6f",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://coinvote.cc/user_data/coin_logo/6458eca917b4d67f7edc7805a5e324f0.png"
+},
+{
+  "name": "FanMeme",
+  "symbol": "FM",
+  "address": "0x79ECAE8aD0b49f5d08b36292F6C8Fc928e01C686",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://coinvote.cc/user_data/coin_logo/a2ec6fc1bd1a7a03218aa0686cb0ec87.png"
+},
   {
     "name": "FLOKI CEO",
     "symbol": "FLOKICEO",
