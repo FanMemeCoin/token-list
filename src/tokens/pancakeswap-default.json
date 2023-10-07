@@ -110,5 +110,13 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x79ECAE8aD0b49f5d08b36292F6C8Fc928e01C686.png"
+       },
+  {
+    "name": "RainbowSix",
+    "symbol": "RSIX",
+    "address": "0x4Fc0Dc6f38D9FCf01F25627Abb809aa1BE934d6F",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x4Fc0Dc6f38D9FCf01F25627Abb809aa1BE934d6F.png"
   }
 ]
